@@ -1,0 +1,7 @@
+E:\Medusind\Assignment 1 & 2\Assignment\Assignment\bin\Debug\Assignment.exe.config
+E:\Medusind\Assignment 1 & 2\Assignment\Assignment\bin\Debug\Assignment.exe
+E:\Medusind\Assignment 1 & 2\Assignment\Assignment\bin\Debug\Assignment.pdb
+E:\Medusind\Assignment 1 & 2\Assignment\Assignment\obj\Debug\Assignment.csproj.AssemblyReference.cache
+E:\Medusind\Assignment 1 & 2\Assignment\Assignment\obj\Debug\Assignment.csproj.CoreCompileInputs.cache
+E:\Medusind\Assignment 1 & 2\Assignment\Assignment\obj\Debug\Assignment.exe
+E:\Medusind\Assignment 1 & 2\Assignment\Assignment\obj\Debug\Assignment.pdb
