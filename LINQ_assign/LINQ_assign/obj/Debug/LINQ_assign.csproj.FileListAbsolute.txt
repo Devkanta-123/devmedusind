@@ -1,0 +1,7 @@
+E:\Medusind\LINQ\LINQ Asignment\LINQ_assign\LINQ_assign\bin\Debug\LINQ_assign.exe.config
+E:\Medusind\LINQ\LINQ Asignment\LINQ_assign\LINQ_assign\bin\Debug\LINQ_assign.exe
+E:\Medusind\LINQ\LINQ Asignment\LINQ_assign\LINQ_assign\bin\Debug\LINQ_assign.pdb
+E:\Medusind\LINQ\LINQ Asignment\LINQ_assign\LINQ_assign\obj\Debug\LINQ_assign.csproj.AssemblyReference.cache
+E:\Medusind\LINQ\LINQ Asignment\LINQ_assign\LINQ_assign\obj\Debug\LINQ_assign.csproj.CoreCompileInputs.cache
+E:\Medusind\LINQ\LINQ Asignment\LINQ_assign\LINQ_assign\obj\Debug\LINQ_assign.exe
+E:\Medusind\LINQ\LINQ Asignment\LINQ_assign\LINQ_assign\obj\Debug\LINQ_assign.pdb
