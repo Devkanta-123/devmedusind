@@ -1,0 +1,7 @@
+E:\Medusind\Assignment 1 & 2\mini_project\mini_project\obj\Debug\mini_project.csproj.CoreCompileInputs.cache
+E:\Medusind\Assignment 1 & 2\mini_project\mini_project\bin\Debug\mini_project.exe.config
+E:\Medusind\Assignment 1 & 2\mini_project\mini_project\bin\Debug\mini_project.exe
+E:\Medusind\Assignment 1 & 2\mini_project\mini_project\bin\Debug\mini_project.pdb
+E:\Medusind\Assignment 1 & 2\mini_project\mini_project\obj\Debug\mini_project.exe
+E:\Medusind\Assignment 1 & 2\mini_project\mini_project\obj\Debug\mini_project.pdb
+E:\Medusind\Assignment 1 & 2\mini_project\mini_project\obj\Debug\mini_project.csproj.AssemblyReference.cache
